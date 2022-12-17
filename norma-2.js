@@ -9,7 +9,7 @@ function isPerfectNumber(num) {
   }
 
   if (sum === num) {
-    alert(num + ' совершеное число')
+    alert(`${num}` + ' совершеное число')
   }
 }
 
